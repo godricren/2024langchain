@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a41f635-8473-488b-b7ef-3a54178cdfd7" name="Changes" comment="HR">
-      <change afterPath="$PROJECT_DIR$/01_Key features/01 How to return structured data from a model.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Key features/02_How to user chat models to call tools.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_How to partially format prompt templates.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/tool_call.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Key features/02_How to user chat models to call tools.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/01_Key features/02_How to user chat models to call tools.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
