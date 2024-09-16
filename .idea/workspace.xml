@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a41f635-8473-488b-b7ef-3a54178cdfd7" name="Changes" comment="HR">
-      <change afterPath="$PROJECT_DIR$/06_How to use few shot examples.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_模型少样本提示.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_对话提示词工程.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Key features/01 How to return structured data from a model.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Key features/02_How to user chat models to call tools.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_How to partially format prompt templates.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/tool_call.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_langchain_prompt.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/05_langchain_prompt.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +39,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.lookFeel"
@@ -53,6 +54,7 @@
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="HR" />
     <option name="LAST_COMMIT_MESSAGE" value="HR" />
   </component>
