@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a41f635-8473-488b-b7ef-3a54178cdfd7" name="Changes" comment="HR">
+      <change afterPath="$PROJECT_DIR$/01_Key features/03_How to pass tool outputs to chat models.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Key features/04_How to stream runnables.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/tool_invocation.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/01_Key features/02_How to user chat models to call tools.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/01_Key features/02_How to user chat models to call tools.ipynb" afterDir="false" />
     </list>
@@ -34,14 +37,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
